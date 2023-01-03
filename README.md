@@ -1,7 +1,5 @@
 <h1>Hey, I´m Catalin</h1>
-
 ![](https://komarev.com/ghpvc/?username=Catalin-Barbu&color=orange)
-
 - 👋 Hi, I’m Catalin Barbu
 - 👀 I’m interested in a job as a full-stack developer or Frontend Developer
 - 🌱 I’m currently completing a full stack developer course at Super-Code GmbH
